@@ -1,6 +1,6 @@
-ice_cream
-# take the ice_crea powder
-# boil the milk
-# put the ice_cream powder and mix it well
-# now freez the ice_cream for 30 min
-# and enjoy the ice_cream
+  Making an ice cream
+# Take the ice cream powder
+# Poil the milk
+# Put the ice cream powder and mix it well
+# Now freez the ice cream for 30 min
+# And enjoy the ice cream
